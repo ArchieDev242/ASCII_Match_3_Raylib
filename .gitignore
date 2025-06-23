@@ -1,0 +1,11 @@
+build/
+
+*.o
+*.a
+*.so
+*.out
+*.exe
+*.dll
+*.idea
+*.vscode
+*.in

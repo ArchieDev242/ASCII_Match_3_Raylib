@@ -211,9 +211,9 @@ Huge appreciation to the [**FreeCodeCamp**](https://www.freecodecamp.org/) team 
 
 This project showcases the power of modern AI tools for creative content generation:
 
-- **🖼️ Background Image** (`bg.jpg`) - Created with [**Reve Image**](https://reve.ai/) AI art generator
-- **🔊 Match Sound Effect** (`matched.mp3`) - Generated using [**Foley AI**](https://foley.ai/) for realistic audio feedback
-- **🎵 Background Music** (`Pixel Dreams.mp3`) - Composed by [**Suno AI**](https://suno.ai/) music generator
+- **🖼️ Background Image** (`bg.jpg`) - Created with [**Reve Image**](https://preview.reve.art/) AI art generator
+- **🔊 Match Sound Effect** (`matched.mp3`) - Generated using [**Foley AI**](https://www.foley-ai.com/) for realistic audio feedback
+- **🎵 Background Music** (`Pixel Dreams.mp3`) - Composed by [**Suno AI**](https://suno.com/about) music generator
 
 These AI tools demonstrate how modern technology can enhance game development by providing high-quality assets quickly and efficiently!
 

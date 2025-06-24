@@ -18,7 +18,7 @@ A classic Match 3 puzzle game built with **C** and **Raylib**, featuring ASCII-s
 
 <div align = "center">
 
-![Video]([media/MATCH3_ASCII.mp4](https://github.com/ArchieDev242/ASCII_Match_3_Raylib/blob/main/media/MATCH3_ASCII.mp4))
+[![Video]([media/MATCH3_ASCII.mp4](https://github.com/ArchieDev242/ASCII_Match_3_Raylib/blob/main/media/MATCH3_ASCII.mp4))](https://github.com/user-attachments/assets/a0fe7b42-cd2f-4455-9364-e79f40824c71)
 
 *Experience the classic Match 3 gameplay with smooth ASCII animations!*
 

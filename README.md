@@ -56,7 +56,7 @@ This project was an excellent learning experience covering multiple technologies
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ASCII_Match_3_Raylib.git
+   git clone https://github.com/ArchieDev242/ASCII_Match_3_Raylib.git
    cd ASCII_Match_3_Raylib
    ```
 
@@ -219,7 +219,7 @@ These AI tools demonstrate how modern technology can enhance game development by
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/ASCII_Match_3_Raylib/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ArchieDev242/ASCII_Match_3_Raylib/issues).
 
 ## 🎮 More Cool Projects
 

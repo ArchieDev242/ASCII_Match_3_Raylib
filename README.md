@@ -180,7 +180,7 @@ This project exists thanks to an absolutely **amazing tutorial** that changed my
 ### 🎓 Original Tutorial
 **[Learn to Code a 2D ASCII Match 3 Game with C and Raylib](https://youtu.be/P7PMA3X1tf8?si=IEsZ7lsXPLBkC54I)** by **FreeCodeCamp**
 
-This comprehensive 2+ hour tutorial is a masterpiece of game development education. It covers everything from basic C programming concepts to advanced game mechanics, all while building a complete, playable game.
+This comprehensive 1 hour tutorial is a masterpiece of game development education. It covers everything from basic C programming concepts to advanced game mechanics, all while building a complete, playable game.
 
 ### 👨‍🏫 Original Author: Erik Yuzwa
 **Massive thanks** to [**Erik Yuzwa**](https://github.com/erikyuzwa) for creating this incredible learning resource! 

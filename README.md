@@ -14,6 +14,8 @@
 
 A classic Match 3 puzzle game built with **C** and **Raylib**, featuring ASCII-style graphics and smooth animations. This project demonstrates modern C programming practices, build system configuration with CMake and Make, and game development fundamentals.
 
+> **P.S.** This game was created by following a tutorial for learning and practicing **C programming** and **Raylib** game development. It serves as an educational project to demonstrate fundamental game development concepts and modern C coding practices.
+
 ## 🎥 Gameplay Demo
 
 <div align = "center">

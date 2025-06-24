@@ -218,10 +218,6 @@ This project showcases the power of modern AI tools for creative content generat
 
 These AI tools demonstrate how modern technology can enhance game development by providing high-quality assets quickly and efficiently!
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ArchieDev242/ASCII_Match_3_Raylib/issues).
-
 ## 🎮 More Cool Projects
 
 Looking for more awesome game development tutorials? Check out:

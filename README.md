@@ -128,7 +128,6 @@ ASCII_Match_3_Raylib/
 - `make setup` - Install Raylib and prepare environment
 - `make` or `make all` - Build the game (default)
 - `make run` - Build and run the game
-- `make debug` - Build with debug symbols
 - `make clean` - Remove build artifacts
 - `make install` - Install game system-wide
 - `make uninstall` - Remove installed game

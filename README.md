@@ -207,6 +207,16 @@ Huge appreciation to the [**FreeCodeCamp**](https://www.freecodecamp.org/) team 
 - 🔔 Subscribe to FreeCodeCamp
 - 💖 Support their mission of free education
 
+### 🤖 AI-Generated Assets
+
+This project showcases the power of modern AI tools for creative content generation:
+
+- **🖼️ Background Image** (`bg.jpg`) - Created with [**Reve Image**](https://reve.ai/) AI art generator
+- **🔊 Match Sound Effect** (`matched.mp3`) - Generated using [**Foley AI**](https://foley.ai/) for realistic audio feedback
+- **🎵 Background Music** (`Pixel Dreams.mp3`) - Composed by [**Suno AI**](https://suno.ai/) music generator
+
+These AI tools demonstrate how modern technology can enhance game development by providing high-quality assets quickly and efficiently!
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/ASCII_Match_3_Raylib/issues).
